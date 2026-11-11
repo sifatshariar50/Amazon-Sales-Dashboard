@@ -99,11 +99,6 @@ Note: Update the tools section if your project uses different technologies.
 
 ### Main Dashboard Overview
 ![Main Dashboard](Screenshot_11-11-2026_223445_.jpeg)
-
-### Key Metrics & Visualizations
-<!-- Apni jodi kono alada screenshot upload koren, tar path ekhane diben -->
-<!-- ![Detailed View](path-to-another-screenshot.jpeg) -->
-
 💡 Key Insights
 
 This dashboard helps identify:
@@ -121,11 +116,3 @@ Countries contributing the most to total sales.
 🚀 Project Outcome
 
 This project demonstrates practical skills in data analysis, data visualization, KPI development, and interactive dashboard design. It transforms raw sales data into actionable business insights.
-
-
-
-
-
-GitHub: Your GitHub Profile
-
-⭐ If you find this project useful, don't forget to give it a star!
