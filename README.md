@@ -95,9 +95,14 @@ Visualization: Interactive Charts, Bar Charts, Line Charts, Donut Charts, and Ma
 
 Note: Update the tools section if your project uses different technologies.
 
-📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-￼
+### Main Dashboard Overview
+![Main Dashboard](Screenshot_11-11-2026_223445_.jpeg)
+
+### Key Metrics & Visualizations
+<!-- Apni jodi kono alada screenshot upload koren, tar path ekhane diben -->
+<!-- ![Detailed View](path-to-another-screenshot.jpeg) -->
 
 💡 Key Insights
 
