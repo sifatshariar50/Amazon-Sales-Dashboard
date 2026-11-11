@@ -116,6 +116,10 @@ Countries contributing the most to total sales.
 🚀 Project Outcome
 
 This project demonstrates practical skills in data analysis, data visualization, KPI development, and interactive dashboard design. It transforms raw sales data into actionable business insights.
+📸 Dashboard Preview
+
+"Amazon Sales Analysis Dashboard" (Screenshot_11-11-2026_223445_.jpeg)
+
 
 
 
