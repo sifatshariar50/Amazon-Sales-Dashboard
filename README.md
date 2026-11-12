@@ -98,7 +98,7 @@ Note: Update the tools section if your project uses different technologies.
 ## 📊 Dashboard Preview
 
 ### Main Dashboard Overview
-![Main Dashboard](Screenshot_11-11-2026_223445_.jpeg)
+![Main Dashboard](https://github.com/sifatshariar50/Amazon-Sales-Dashboard/blob/main/amazon.pbix)
 💡 Key Insights
 
 This dashboard helps identify:
